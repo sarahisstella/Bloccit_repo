@@ -30,3 +30,5 @@ Please feel free to use a different markup language if you do not plan to run
 ## Bloccit: a Reddit replica to teach the fundamentals of web development and Rails.
 
 Made with my mentor at [Bloc](http://bloc.io).
+
+Heroku App: sarahisstella-bloccit found at [Bloccit](https://sarahisstella-bloccit.herokuapp.com/)
