@@ -11,6 +11,7 @@ end
 
 group :development do
   gem 'sqlite3'
+  gem 'rails-erd'
 end
 
 #Inclusion of Bootstrap-sass gem
